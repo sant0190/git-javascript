@@ -1,2 +1,2 @@
-#Git JavaScript
+# Git JavaScript
 ## Christine Grace Santos
